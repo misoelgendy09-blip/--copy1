@@ -1,0 +1,38 @@
+{
+    "name": "- Copy1",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.1.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.6.0",
+        "color-coded-tilemap": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.1.0",
+        "servo": "*",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "animation": "*"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
