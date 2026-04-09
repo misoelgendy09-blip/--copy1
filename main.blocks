@@ -17,15 +17,15 @@ e 4 4 4 e 7 7 7 b f e f .
 . . . . . . . f f f . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></block></value><value name="ADD1"><shadow type="math_number" id="hO,CM4U%}7nevlQ_Qb8m"><field name="NUM">1</field></shadow><block type="screen_image_picker" id="uDtvhrc(WVR)3:-cTJQq"><field name="img">img`
 e e e . . . . e e e . . . . 
-c d d c . . c d d c . . . . 
-c b d d f f d d b c . . . . 
-c 3 b d d b d b 3 c . . . . 
-f b 3 d d d d 3 b f . . . . 
-e d d d d d d d d e . . . . 
-e d f d d d d f d e . b f b 
-f d d f d d f d d f . f d f 
-f b d d b b d d 2 f . f d f 
-. f 2 2 2 2 2 2 b b f f d f 
+c d d c . . c d 3 c . . . . 
+c b d d f f d 3 3 c . . . . 
+c 3 b d d b 3 3 3 c . . . . 
+f b 3 d d 3 3 3 b f . . . . 
+e d d d 3 3 d d d e . . . . 
+e d f 3 3 d d f d e . b f b 
+f d 3 3 d d f d d f . f d f 
+f 3 d d b b d d 2 f . f d f 
+3 3 2 2 2 2 2 2 b b f f d f 
 . f b d d d d d d b b d b f 
 . f d d d d d b d d f f f . 
 . f d f f f d f f d f . . . 
