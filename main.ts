@@ -328,14 +328,14 @@ dialog3 = false
 list = [
 img`
     . . . . . . . . . . . . . 
-    . . . . f f f f . . . . . 
-    . . f f f f f f f f . . . 
-    . f f f c f f f f f f . . 
-    c f f f c c f f f f f f f 
-    c f f f f f f f c f f f f 
-    c c f f e e f 3 f c c c . 
-    f c c f f e e f f f f f . 
-    f f f b f e e f b f f f . 
+    . . 3 3 3 3 3 3 3 . . . . 
+    . . f 3 3 3 3 3 3 f . . . 
+    . f 3 3 3 3 3 3 3 3 f . . 
+    c f f 3 3 3 3 3 3 f f f f 
+    c f 3 3 3 3 3 3 3 f f f f 
+    c c 3 3 3 3 3 3 3 c c c . 
+    f c 3 3 3 3 3 3 f f f f . 
+    f 3 3 3 3 3 e f b f f f . 
     f f 4 1 f 4 4 f 1 4 f f . 
     e f e e 4 4 4 4 4 e f . . 
     e 4 4 4 e 7 7 7 b f e f . 
